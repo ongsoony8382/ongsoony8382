@@ -1,4 +1,13 @@
-## Hi there 👋
+## Suyeon's Farm
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=ongsoony8382&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/ongsoony8382"
+  width="600"
+  height="300"
+/>
+</a>
+
 
 <!--
 **ongsoony8382/ongsoony8382** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
