@@ -65,10 +65,42 @@
 
 --- 
 
+## 📂 주요 프로젝트
+
+### 1. 학사관리시스템 MA 프로젝트
+[🔗 저장소 바로가기]
+- **기능**:   
+- **기술 스택**:   
+- **특징**: 
+  
+### 2. 학사관리시스템 MSA 프로젝트
+[🔗 저장소 바로가기]
+- **기능**:   
+- **기술 스택**: 
+- **특징**:
+- 
+### 3. 은행업무 DB구축 및 성능 개선 프로젝트
+[🔗 저장소 바로가기]
+- **기능**:   
+- **기술 스택**:
+- **특징**: 
+
+### 4. 은행업무 DB구축 및 성능 개선 프로젝트
+[🔗 저장소 바로가기]
+- **기능**:   
+- **기술 스택**: 
+- **특징**: 
+
 ---
 
-## 📂 주요 프로젝트
-### 1.   
+## 🔗 연락처 & 블로그
+
+<p>
+  <a href="mailto:ongsoony8382@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://블로그주소.tistory.com"><img src="https://img.shields.io/badge/Tistory-F97316?style=for-the-badge&logoColor=white"></a>
+</p>
+
+---
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=ongsoony8382&utm_content=farm">
 <img
