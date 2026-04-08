@@ -6,13 +6,15 @@
 />
 </a>
 
-# 👋 
+# 👋 안녕하세요! 
+저는 백엔드 개발 역량을 키워가고 있는 영남대학교 컴퓨터 공학과 4학년 학생입니다.
+API 설계, 데이터베이스 모델링, 서버 로직 구현을 중심으로 안정적인 시스템을 만드는 데 관심이 있습니다.
 
 ![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&text=Welcome%20to%20My%20GitHub&fontSize=40&fontColor=ffffff)
 
 ---
 
-## 🚀 소개
+## 🚀 활동
 
 - 💾 **REST API 설계 및 서버 로직 구현** 
 
