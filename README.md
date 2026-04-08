@@ -6,7 +6,7 @@
 />
 </a>
 
-# 👋 안녕하세요, 백엔드 개발자가 되기 위해 공부하는 김수연입니다.
+# 👋 
 
 ![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&text=Welcome%20to%20My%20GitHub&fontSize=40&fontColor=ffffff)
 
